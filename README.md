@@ -1,3 +1,10 @@
+# IMAGE GALLERY
+
+*This is an image gallery, it is an assessment given to me to work on*
+
+# assessment: Repo creation and pushing
+
+*This is a description of the steps taken to create this repo*
 
 1. Firstly, I created a GitHub repository named **Assessment1** with a **README.md file**
 2. Created two branches under the repository, **main** and **Sub branch**
